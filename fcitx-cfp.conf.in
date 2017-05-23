@@ -1,0 +1,10 @@
+[Addon]
+Name=fcitx-cfp
+_GeneralName=CharFromPhrase in Fcitx
+_Comment=
+Category=Module
+Enabled=True
+Library=fcitx-cfp.so
+Type=SharedLibrary
+Dependency=
+Priority=80

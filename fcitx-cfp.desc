@@ -1,0 +1,12 @@
+[CFP/InputCharFromPhraseString]
+Type=String
+DefaultValue=[]
+Description=Hotkey for Inputing Character From Phrase
+
+[CFP/InputCharFromPhraseKey]
+Type=Hotkey
+DefaultValue=
+Description=Hotkey for switching to Inputing Character From Phrase mode
+
+[DescriptionFile]
+LocaleDomain=fcitx

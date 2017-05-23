@@ -1,0 +1,14 @@
+[FcitxAddon]
+Name=fcitx-cfp
+Prefix=CFP
+Include0=
+Function0=
+Function1=
+Function2=
+Function3=
+Function4=
+Function5=
+Function6=
+Function7=
+Function8=
+Self.Type=CFP*
